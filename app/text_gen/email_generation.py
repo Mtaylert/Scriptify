@@ -1,6 +1,6 @@
 import openai
 
-from app.config import settings
+from app.config import local_settings
 from app.text_gen.prompt_tools import EmailPrompts
 
 
@@ -9,7 +9,7 @@ class EmailGeneration(EmailPrompts):
         super(EmailGeneration, self).__init__()
 
     def generate_email(self, intro_name: str, salutation_name: str, company_name: str, skill_desired: str, resume_context: str):
-        openai.api_key = settings.API_KEY
+        openai.api_key = local_settings.API_KEY
         prompt = self.create_email_prompt(
             intro_name=intro_name,
             salutation_name=salutation_name,
