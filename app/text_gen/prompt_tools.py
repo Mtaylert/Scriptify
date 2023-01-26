@@ -3,12 +3,16 @@ class EmailPrompts:
         self,
         intro_name: str,
         company_name: str,
-        experience_type: str,
+        skill_desired: str,
         salutation_name: str,
+        resume_context: str,
     ) -> str:
 
-        intro = f"""You are a recruiter and your name is {intro_name} at {company_name} staffing agency. 
-                    You are wondering if the candidate is open to hearing about a new job opportunity. You are very polite and personable. You also have strong technical writing skills. Generate an outreach email based upon 
-                    the context below. Let them know the client is interested in hiring someone with strong {experience_type} experience. 
-                    Let the candidate know that the have an impressive resume and experience. The candidates name is will appear at the top. Include the name {salutation_name} in the salutation. \n\n"""
-        return intro
+        intro = f"""You are a recruiter and your name is {intro_name} at {company_name} staffing agency.  Generate an outreach email based upon 
+                    the context below. You are wondering if the candidate is open to hearing about a new job opportunity. You are very polite and personable. You also have strong technical writing skills. 
+                     Let them know the client is interested in hiring someone with strong {skill_desired} experience. Summarize their skills to make it seem personal.
+                    Let the candidate know that they have an impressive resume and experience. The candidate's name is at the top of the context. Include the name {salutation_name} in the salutation. \n\n"""
+        resume_context = f"CONTEXT: {resume_context} \n\n"
+        response = f"ANSWER:"
+        prompt = intro + resume_context + response
+        return prompt
