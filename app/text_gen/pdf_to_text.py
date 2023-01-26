@@ -1,9 +1,11 @@
+import uuid
+from os import mkdir, path, remove
+
 import PyPDF2
 from fastapi import UploadFile
-import uuid
-from os import path, mkdir, remove
 
-tempdir = '/tmp/resumes'
+tempdir = "/tmp/resumes"
+
 
 class PDFParser:
     async def extract_text_from_pdf(self, file: UploadFile) -> str:
@@ -18,8 +20,7 @@ class PDFParser:
         return pdf_text[0]
 
 
-
 async def save_file(file: UploadFile):
-    tempdir = '/tmp/resumes'
-    with open('{}/{}'.format(tempdir, file.filename), 'wb+') as temp:
+    tempdir = "/tmp/resumes"
+    with open("{}/{}".format(tempdir, file.filename), "wb+") as temp:
         temp.write(file.file.read())

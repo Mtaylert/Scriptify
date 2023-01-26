@@ -1,5 +1,11 @@
 class EmailPrompts:
-    def create_email_prompt(self, intro_name: str, company_name: str, experience_type: str, salutation_name: str) -> str:
+    def create_email_prompt(
+        self,
+        intro_name: str,
+        company_name: str,
+        experience_type: str,
+        salutation_name: str,
+    ) -> str:
 
         intro = f"""You are a recruiter and your name is {intro_name} at {company_name} staffing agency. 
                     You are wondering if the candidate is open to hearing about a new job opportunity. You are very polite and personable. You also have strong technical writing skills. Generate an outreach email based upon 
