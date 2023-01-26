@@ -1,3 +1,4 @@
-.vscode
+.vscode/
 */.python-version/*
 app/config/local_settings.py
+*/.DS_Store/*
