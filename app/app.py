@@ -1,9 +1,11 @@
-from typing import Optional
+from typing import Optional, List
 import uvicorn
 from fastapi import FastAPI, File, HTTPException, UploadFile
+from fastapi import Query
 
 from app.text_gen.email_generation import EmailGeneration
 from app.text_gen.pdf_to_text import PDFParser
+from app.text_gen.jd_generation import JDGeneration
 
 app = FastAPI(
     title="Scriptify Rest",
@@ -36,6 +38,33 @@ async def generate_email(
         resume_context=resume,
     )
     return {"pdf_text": resume, "email": email}
+
+
+@app.post("/job_description")
+async def generate_job_description(
+    company_name: str,
+    position_title: str,
+    location: str,
+    requirements: str,
+):
+    jd = JDGeneration().generate_job_description(
+        company_name=company_name,
+        position_title=position_title,
+        location=location,
+        requirements=requirements,
+    )
+    return {"job_description": jd}
+
+
+@app.post("/resume_fraud")
+async def generate_email(
+    file: UploadFile = File(...),
+):
+    if file.content_type != "application/pdf":
+        raise HTTPException(status_code=400, detail="Bad file type")
+    resume = await PDFParser().extract_text_from_pdf(file=file)
+    out = {"prediction": "Not Fraud", "Confidence": 0.9764}
+    return out
 
 
 if __name__ == "__main__":

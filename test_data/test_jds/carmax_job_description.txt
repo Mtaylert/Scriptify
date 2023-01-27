@@ -1,0 +1,51 @@
+8901 - Corp Office West Crk - 12800 Tuckahoe Creek Parkway, Richmond, Virginia, 23238
+CarMax, the way your career should be! 
+Situated in the rural western suburbs of Richmond is the CarMax Home Office. Behind these walls lies the bustling nerve center of CarMax where innovation takes flight and where associates collaborate to “Drive What’s Possible.” Over 24 years ago CarMax disrupted the automotive industry and we continue to do so today by harnessing modern development practices, leveraging leading technologies, and engaging with our associates to tackle complex business problems with an innovative approach. Through integrity and transparency, we continue to improve upon our customers experience while also enabling the success of the organization through robust systems and applications that deliver value to our associates.
+If you are interested in leading a high performing IT team that is transforming critical CarMax systems, your career search ends now! 
+
+Machine Learning drives customer experiences and optimizations across CarMax- From pricing vehicles, to helping customers find the right car, to driving efficiencies in our key operational processes. We are looking for a passionate, innovative individual to be a leader in the engineering branch of Machine Learning at CarMax!
+
+
+About this job
+
+
+The Sr. Manager of Technology for Data Science and Machine Learning is a key leader in providing reliable and scalable machine-learning capabilities across the organization. The Technology Manager will be responsible for the talent selection and career development of a team of very talented and passionate software/ML engineers, who closely partner with Data Scientists in productionalizing models. The ideal candidate will have a passion and understanding of Data Science and Machine Learning and will have the substantial experience in software engineering and cloud engineering that is necessary to turn those models into highly visible, mission-critical capabilities that drive CarMax’s iconic customer experience.
+
+
+Experience technology on the cutting edge here at https://youtu.be/5iWMY3Z3Rso
+
+   
+Technical Qualifications:
+
+7+ years' experience in Software Engineering of highly scalable services
+3+ years’ experience in building and managing Machine-Learning platforms/ecosystems,
+3+ years’ experience in Cloud Engineering, with knowledge in distributed computing preferred
+Demonstrated innate passion for the Data Science and Machine-Learning, building scalable ML platforms/ecosystems
+
+Management Qualifications:
+
+3+ years' experience managing direct reports, required
+3+ years of experience required leading software projects leveraging Agile practices, required
+Demonstrated leadership skills – can apply clear direction and priorities to teams
+Serves as an empowering coach to the team by providing them with the resources, training, feedback, and a sounding-board to be successful in their roles
+Promotes a customer-focused team, balancing technical debt with speed-to-delivery
+Demonstrated ability to provide vision for the Cloud Engineering, Software Engineering, and Machine-Learning spaces and inspire teams towards the future
+Bachelor’s in Computer Science, Engineering, or Data Science; Master’s preferred
+Work Authorization: Candidates must be legally authorized to work for any U.S. employer on a full-time basis. Sponsorship will be considered for this specific role.
+
+Work Location And Arrangement: This role will be based out of the Dallas, TX or Richmond, VA CarMax Technology Innovation Center and have a Hybrid work arrangement.
+
+About CarMax
+
+CarMax disrupted the auto industry by delivering the honest, transparent and high-integrity experience customers want and deserve. This innovative thinking around the way cars are bought and sold has helped us become the nation’s largest retailer of used cars, with over 200 locations nationwide.
+
+Our amazing team of more than 25,000 associates work together to deliver iconic customer experiences. Along the way, we help every associate grow their career and achieve their best, at work and in their community.  We are recognized for our commitment to training and diversity and are one of the FORTUNE 100 Best Companies to Work For®.
+
+Our Commitment to Diversity and Inclusion:
+
+CarMax is committed to bringing together people from different backgrounds and perspectives, providing employees with a safe, welcoming, and inclusive work environment.
+
+CarMax is an equal opportunity employer, and all qualified candidates will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, gender expression, genetic information, national origin, protected veteran status, disability status, and any other characteristics protected by law.
+
+Upon an applicant's request, CarMax will consider reasonable accommodation to complete the CarMax Job Application.
+

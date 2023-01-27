@@ -1,0 +1,66 @@
+Job Description:
+The Lead ML Ops Engineer at Fidelity Labs is a pivotal role for the continued success and growth of the Catchlight startup. Catchlight is a new software solution that helps financial advisors prioritize and optimize their leads and prospects. Catchlight launched in January 2022 and is now available to financial advisors across the United States. Visit https://catchlight.ai(opens in a new tab) for more information.
+
+In this role you will be responsible for building and maintaining the next generation ML platform and infrastructure. The Lead ML Ops Engineer will work closely with technical leads, infrastructure engineers and data scientists. They will establish best practices and lead initiatives to simplify the development and deployment of ML models at scale and bring game-changing ideas to market.
+
+The Expertise and Skills You Bring
+
+Extensive software engineering experience including distributed systems and data infrastructure
+
+Strong knowledge of Python
+
+Experience with ML infrastructure and ML Ops:
+
+Building tooling and automation to support the entire ML engineering lifecycle from experimentation to production operations
+
+AWS Sagemaker and Airflow
+
+Kubernetes, Terraform and ML CI/CD workflows
+
+Strong understanding of data science, core ML concepts and approaches
+
+Passion for testing as a core part of the development process
+
+You thrive in fast-paced, ambiguous environments with high risks and high rewards
+
+The Team
+
+We are Fidelity Labs, Fidelity Investments’ in-house fintech incubator with a mission to build new businesses to drive growth for Fidelity. We seek to shape the future of our industry by building new products and services to improve the lives of the diverse set of customers, businesses and financial institutions we serve.
+
+Fidelity Labs is a dynamic workplace that combines the best parts of startup life—building from scratch, adapting quickly, and moon-shot ambition—with the scale and stability of an industry leader. We provide a safe space for startup teams to explore new business ideas, quickly test them with customers, and scale the most promising concepts within an existing business unit, or as a new venture.
+
+This opportunity is brought to you by Fidelity Labs. Learn more at labs.fidelity.com(opens in a new tab)
+
+Please see below for the salary range for work locations in Colorado only:
+
+N/A
+
+Please see below for the salary range for work locations in New York City, Westchester County, NY and Jersey City, NJ only:
+
+$130,000 – $218,000 per year
+
+This position is eligible for incentive compensation or an annual bonus opportunity.
+
+Please see below for the salary range for work locations in California only:
+
+N/A
+
+Please see below for the salary range for work locations in Washington only:
+
+N/A
+
+Certifications:
+Company Overview
+Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.
+
+Join Us
+
+At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees’ Choice Award, we have been recognized by our employees as a Best Place to Work in 2022. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning so you can build the career you’ve always imagined.
+
+At Fidelity, our goal is for most people to work flexibly in a way that balances both personal and business needs with time onsite and offsite through what we’re calling “Dynamic Working.”
+
+We invite you to Find Your Fidelity at fidelitycareers.com.
+
+Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.
+
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 3.

@@ -1,5 +1,7 @@
+from typing import List
+
 class EmailPrompts:
-    def create_email_prompt(
+    def basic_email_prompt(
         self,
         intro_name: str,
         company_name: str,
@@ -16,3 +18,19 @@ class EmailPrompts:
         response = f"ANSWER:"
         prompt = intro + resume_context + response
         return prompt
+
+
+class JDPrompts:
+    def basic_jd_prompt(self, company_name: str, position_title: str, location: str, requirements: str):
+        intro_summary = f"""You are a staffing agency and your company name is {company_name}. You are very enthusiastic. Write a short introduction that your company is 
+        looking for an experienced {position_title} located in {location}.\n\n 
+        """
+        intro_response = f"ANSWER: "
+        intro_prompt = intro_summary + intro_response
+
+        requirement_intro = f"""Write a bulleted list based on the context below. \n\n"""
+        requirements_context = f"CONTEXT: {requirements} \n\n"
+        requirements_reponse = f"ANSWER: "
+        requirement_prompt = requirement_intro + requirements_context + requirements_reponse
+        return {'intro': intro_prompt, "requirements" : requirement_prompt}
+    
