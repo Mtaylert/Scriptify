@@ -1,5 +1,6 @@
 from typing import List
 
+
 class EmailPrompts:
     def basic_email_prompt(
         self,

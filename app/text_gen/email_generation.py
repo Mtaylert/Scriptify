@@ -1,5 +1,5 @@
-from app.text_gen.prompt_tools import EmailPrompts
 from app.text_gen.gpt_model import GPT3
+from app.text_gen.prompt_tools import EmailPrompts
 
 
 class EmailGeneration(EmailPrompts, GPT3):

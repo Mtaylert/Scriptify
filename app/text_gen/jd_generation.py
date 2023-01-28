@@ -1,6 +1,7 @@
-from app.text_gen.prompt_tools import JDPrompts
-from app.text_gen.gpt_model import GPT3
 from typing import List
+
+from app.text_gen.gpt_model import GPT3
+from app.text_gen.prompt_tools import JDPrompts
 
 
 class JDGeneration(JDPrompts, GPT3):
