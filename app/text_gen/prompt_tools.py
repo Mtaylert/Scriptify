@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 
 
 class EmailPrompts:
@@ -22,9 +22,14 @@ class EmailPrompts:
 
 
 class JDPrompts:
-    def basic_jd_prompt(self, company_name: str, position_title: str, location: str, requirements: str):
-        intro_summary = f"""You are a staffing agency and your company name is {company_name}. You are very enthusiastic. Write a short introduction that your company is 
-        looking for an experienced {position_title} located in {location}.\n\n 
+    def basic_jd_prompt(self, company_name: str, position_title: str, location: str, requirements: str, placement_company: Optional[str] = None):
+        if placement_company:
+            intro_summary = f"""You are a staffing agency and your company name is {company_name}. Write a brief job description about your client {placement_company} who is 
+            seeking an experienced {position_title} in the {location} area.\n\n 
+            """
+        else:
+            intro_summary = f"""You are a staffing agency and your company name is {company_name}. You are very enthusiastic. Write a short introduction that your company is 
+        looking for an experienced {position_title} for your client located in {location}.\n\n 
         """
         intro_response = f"ANSWER: "
         intro_prompt = intro_summary + intro_response

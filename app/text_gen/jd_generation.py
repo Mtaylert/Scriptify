@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 
 from app.text_gen.gpt_model import GPT3
 from app.text_gen.prompt_tools import JDPrompts
@@ -14,12 +14,15 @@ class JDGeneration(JDPrompts, GPT3):
         position_title: str,
         location: str,
         requirements: List[str],
+        placement_company: Optional[str],
     ):
         prompt = self.basic_jd_prompt(
             company_name=company_name,
             position_title=position_title,
             location=location,
             requirements=requirements,
+            placement_company=placement_company,
+
         )
         intro_response = (
             " ".join(self.generate_text(prompt=prompt.get("intro"))).lstrip()

@@ -46,12 +46,14 @@ async def generate_job_description(
     position_title: str,
     location: str,
     requirements: str,
+    placement_company : Optional[str],
 ):
     jd = JDGeneration().generate_job_description(
         company_name=company_name,
         position_title=position_title,
         location=location,
         requirements=requirements,
+        placement_company=placement_company,
     )
     return {"job_description": jd}
 
