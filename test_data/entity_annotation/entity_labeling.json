@@ -1,0 +1,732 @@
+[
+    {
+        "text": [
+            "Sourabh",
+            "Bajaj",
+            "Email",
+            ":",
+            "sourabh@sourabhbajaj.com"
+        ],
+        "labels": [
+            "B-name",
+            "I-name",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "http://www.sourabhbajaj.com",
+            "Mobile",
+            ":",
+            "+1-123-456-7890"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Education"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "\u2022",
+            "Georgia",
+            "Institute",
+            "of",
+            "Technology",
+            "Atlanta,",
+            "GA"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Master",
+            "of",
+            "Science",
+            "in",
+            "Computer",
+            "Science;",
+            "GPA:",
+            "4.00",
+            "Aug.",
+            "2012",
+            "\u2013",
+            "Dec.",
+            "2013"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "\u2022",
+            "Birla",
+            "Institute",
+            "of",
+            "Technology",
+            "and",
+            "Science",
+            "Pilani,",
+            "India"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Cristian",
+            "Garcia"
+        ],
+        "labels": [
+            "B-name",
+            "I-name"
+        ]
+    },
+    {
+        "text": [
+            "Machine",
+            "Learning",
+            "Engineer"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "cgarcia.e88@gmail.com"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "@cgarciae88"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "@cgarciae"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Currently",
+            "Machine",
+            "Learning",
+            "Engineer",
+            "at",
+            "Quansight"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Olatunji",
+            "Odoula"
+        ],
+        "labels": [
+            "B-name",
+            "I-name"
+        ]
+    },
+    {
+        "text": [
+            "Junior",
+            "Software",
+            "Developer",
+            "LinkedIn"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Github"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "I",
+            "am",
+            "a",
+            "motivate",
+            "and",
+            "ambitious",
+            "Software",
+            "Developer.",
+            "I\u200b",
+            "enjoy",
+            "producing",
+            "clean,",
+            "test-driven",
+            "+44(0)7950494533"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "code",
+            "in",
+            "a",
+            "collaborative",
+            "environment,",
+            "whilst",
+            "solving",
+            "real-world",
+            "problems.",
+            "I",
+            "recently",
+            "ola.oduola@gmail.com"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "graduated",
+            "from",
+            "M\u200bakers",
+            "Academy\u200b,",
+            "where",
+            "I",
+            "quickly",
+            "learnt",
+            "engineering",
+            "best",
+            "practices,"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Dhruv",
+            "Thakur"
+        ],
+        "labels": [
+            "B-name",
+            "I-name"
+        ]
+    },
+    {
+        "text": [
+            "Vienna,",
+            "AT",
+            "dhruvt93@gmail.com",
+            "dhruvthakur",
+            "dhth",
+            "https://dhruvs.space"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "SUMMARY"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Software",
+            "Engineer",
+            "with",
+            "6",
+            "years",
+            "of",
+            "experience",
+            "building",
+            "backend",
+            "systems",
+            "for",
+            "e-commerce",
+            "and",
+            "user",
+            "feedback",
+            "SaaS",
+            "platforms,",
+            "and",
+            "a"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "large",
+            "multinational",
+            "bank."
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "PROFESSIONAL",
+            "EXPERIENCE"
+        ],
+        "labels": [
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Matt",
+            "Taylert"
+        ],
+        "labels": [
+            "B-name",
+            "I-name"
+        ]
+    },
+    {
+        "text": [
+            "7808",
+            "E",
+            "Yardley",
+            "Rd.,",
+            "Henrico,",
+            "Virginia,",
+            "23294",
+            "-",
+            "taylertms@gmail.com",
+            "804-305-4951"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Summary"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Experienced",
+            "Machine",
+            "Learning",
+            "Engineering",
+            "professional",
+            "with",
+            "a",
+            "heavy",
+            "focus",
+            "on",
+            "Natural"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Language",
+            "Processing",
+            "(NLP).",
+            "My",
+            "passion",
+            "for",
+            "engineering",
+            "lies",
+            "heavily",
+            "in",
+            "complex",
+            "problem"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "solving",
+            "and",
+            "research."
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "James",
+            "R.",
+            "Priest"
+        ],
+        "labels": [
+            "B-name",
+            "I-name",
+            "O-name"
+        ]
+    },
+    {
+        "text": [
+            "5111",
+            "Princess",
+            "Anne",
+            "Road,",
+            "La",
+            "Ca\u00f1ada,",
+            "CA",
+            "91011",
+            "\u2022",
+            "Cell",
+            "626-240-9970"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Email",
+            "james-priest@outlook.com",
+            "\u2022",
+            "LinkedIn",
+            "www.linkedin.com/in/jamespriestdeveloper/"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "SUMMARY"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "UX",
+            "design-driven",
+            "React,",
+            ".NET,",
+            "Node.js,",
+            "DB",
+            "Developer",
+            "with",
+            "over",
+            "20",
+            "years\u2019",
+            "experience",
+            "building",
+            "web",
+            "applications."
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "SKILLS"
+        ],
+        "labels": [
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Mike",
+            "Spencer"
+        ],
+        "labels": [
+            "B-name",
+            "I-name"
+        ]
+    },
+    {
+        "text": [
+            "\ue800",
+            "mikespencema@gmail.com"
+        ],
+        "labels": [
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "\uf300",
+            "github.com/mikespencer"
+        ],
+        "labels": [
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "Front",
+            "End",
+            "Engineer",
+            "\uf318",
+            "linkedin.com/in/mikeaspencer"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "About",
+            "me"
+        ],
+        "labels": [
+            "o",
+            "o"
+        ]
+    },
+    {
+        "text": [
+            "I'm",
+            "a",
+            "front",
+            "end",
+            "engineer",
+            "with",
+            "experience",
+            "developing",
+            "complex,",
+            "high",
+            "profile",
+            "web",
+            "applications",
+            "collaborating",
+            "with",
+            "both",
+            "small",
+            "and",
+            "large",
+            "teams.",
+            "I"
+        ],
+        "labels": [
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o",
+            "o"
+        ]
+    }
+]
