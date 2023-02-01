@@ -45,4 +45,30 @@ def write_ton_jso():
         file.close()
 
 
-parse()
+
+def annot_parse():
+    filpath = "/Users/home/workplace/Scriptify/test_data/test_resumes/"
+    resume_parser = []
+    for file in os.listdir(filpath):
+        first_section = {}
+        full_path = filpath + file
+        parsed_pdf_page = ResumePageExtraction().build_page(pdf_file=full_path)
+        for page in parsed_pdf_page:
+            print("*********** NEW RESUME ***********")
+            cutoff = 5
+            page_num = 1
+            if page == page_num:
+                for line in parsed_pdf_page[page]["text"]:
+                    if line <= cutoff:
+                        annotation = {"text":[], "labels":[]}
+                        text_line = parsed_pdf_page[page]["text"][line]
+                        compacted_sentence = []
+                        for token in text_line:
+                            compacted_sentence.append(token.replace('\u200b', '').replace("\ue800",''))
+                        annotation['text'] = " ".join(compacted_sentence)
+                        resume_parser.append(annotation)
+    with open('/Users/home/workplace/Scriptify/test_data/entity_annotation/entity_flair_labeling.json', 'w') as file:
+        file.write(json.dumps(resume_parser, indent=4))
+
+
+annot_parse()

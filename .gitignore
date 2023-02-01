@@ -2,3 +2,4 @@
 */.python-version/*
 app/config/local_settings.py
 */.DS_Store/*
+entity_modeling/saved_models/*
