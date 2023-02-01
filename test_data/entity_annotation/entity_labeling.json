@@ -8,8 +8,8 @@
             "sourabh@sourabhbajaj.com"
         ],
         "labels": [
-            "B-name",
-            "I-name",
+            "o",
+            "o",
             "o",
             "o",
             "o"
@@ -119,8 +119,8 @@
             "Garcia"
         ],
         "labels": [
-            "B-name",
-            "I-name"
+            "o",
+            "o"
         ]
     },
     {
@@ -183,8 +183,8 @@
             "Odoula"
         ],
         "labels": [
-            "B-name",
-            "I-name"
+            "o",
+            "o"
         ]
     },
     {
@@ -219,7 +219,7 @@
             "ambitious",
             "Software",
             "Developer.",
-            "I\u200b",
+            "I",
             "enjoy",
             "producing",
             "clean,",
@@ -277,8 +277,8 @@
         "text": [
             "graduated",
             "from",
-            "M\u200bakers",
-            "Academy\u200b,",
+            "Makers",
+            "Academy,",
             "where",
             "I",
             "quickly",
@@ -307,8 +307,8 @@
             "Thakur"
         ],
         "labels": [
-            "B-name",
-            "I-name"
+            "o",
+            "o"
         ]
     },
     {
@@ -409,8 +409,8 @@
             "Taylert"
         ],
         "labels": [
-            "B-name",
-            "I-name"
+            "o",
+            "o"
         ]
     },
     {
@@ -524,9 +524,9 @@
             "Priest"
         ],
         "labels": [
-            "B-name",
-            "I-name",
-            "O-name"
+            "o",
+            "o",
+            "o"
         ]
     },
     {
@@ -631,13 +631,13 @@
             "Spencer"
         ],
         "labels": [
-            "B-name",
-            "I-name"
+            "o",
+            "o"
         ]
     },
     {
         "text": [
-            "\ue800",
+            "",
             "mikespencema@gmail.com"
         ],
         "labels": [

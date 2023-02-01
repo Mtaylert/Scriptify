@@ -2,7 +2,7 @@ from app.resume_parsing.text_extration import ResumePageExtraction
 import os
 import pandas as pd
 import json
-
+import re 
 def parse():
     filpath = "/Users/home/workplace/Scriptify/test_data/test_resumes/"
     resume_parser = []
@@ -20,8 +20,8 @@ def parse():
                         annotation = {"text":[], "labels":[]}
                         text_line = parsed_pdf_page[page]["text"][line]
                         for token in text_line:
-                            annotation['text'].append(token)
                             annotation['labels'].append('o')
+                            annotation['text'].append(token.replace('\u200b', '').replace("\ue800",''))
                         resume_parser.append(annotation)
     with open('/Users/home/workplace/Scriptify/test_data/entity_annotation/entity_labeling.json', 'w') as file:
         file.write(json.dumps(resume_parser, indent=4))
